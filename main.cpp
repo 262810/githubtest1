@@ -1,7 +1,7 @@
 #include <iostream>
 // TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 int Policz(int a, int b) {
-    return a + b;
+    return a * b;
 }
 
 int main() {
